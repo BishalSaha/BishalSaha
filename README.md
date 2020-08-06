@@ -21,10 +21,10 @@
 -->
 
 ### New Project:
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-StartUp Name
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/2b55.png" />][website]
+CircleAI
 
-[website]: https://
+[website]: https://circleai.web.app/index
 
 <br/>
 

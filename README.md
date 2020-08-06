@@ -28,11 +28,19 @@ CircleAI- Personalised and Privacy focused Virtual AI for your everyday task!
 
 <br/>
 
+### Design Project:
+[<img align="left" width="20px" src="https://github.com/BishalSaha/neumorphism-clock/blob/master/Clockcopy.png?raw=true" />][website2]
+Clock- Dark Neumorphism!
+
+[website2]: https://bishalsaha.github.io/neumorphism-clock/
+
+<br/>
+
 ### Past Project:
-[<img align="left" width="22px" src="https://yt3.ggpht.com/a/AATXAJxPKPtiUSUAW1bIxski3Izfmyh4tZFxahKOwna3=s288-c-k-c0xffffffff-no-rj-mo" />][website2]
+[<img align="left" width="22px" src="https://yt3.ggpht.com/a/AATXAJxPKPtiUSUAW1bIxski3Izfmyh4tZFxahKOwna3=s288-c-k-c0xffffffff-no-rj-mo" />][website3]
 Nexus-X- A platform for Creators!
 
-[website2]: https://youtu.be/VAzX7s-1OFw
+[website3]: https://youtu.be/VAzX7s-1OFw
 
 <br/>
 

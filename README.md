@@ -28,6 +28,14 @@ CircleAI- Personalised and Privacy focused Virtual AI for your everyday task!
 
 <br/>
 
+### Past Project:
+[<img align="left" width="22px" src="https://yt3.ggpht.com/a/AATXAJxPKPtiUSUAW1bIxski3Izfmyh4tZFxahKOwna3=s288-c-k-c0xffffffff-no-rj-mo" />][website2]
+Nexus-X- A platform for Creators!
+
+[website2]: https://youtu.be/VAzX7s-1OFw
+
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

@@ -22,7 +22,7 @@
 
 ### New Project:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/2b55.png" />][website]
-CircleAI
+CircleAI- Personalised and Privacy focused Virtual AI for your everyday task!
 
 [website]: https://circleai.web.app/index
 

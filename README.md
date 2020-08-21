@@ -32,7 +32,7 @@ CircleAI- Personalised and Privacy focused Virtual AI for your everyday task!
 [<img align="left" width="20px" src="https://github.com/BishalSaha/neumorphism-clock/blob/master/Clockcopy.png?raw=true" />][website2]
 Clock- Dark Neumorphism!
 
-[website2]: https://bishalsaha.github.io/neumorphism-clock/
+[website2]: https://bishalsaha.github.io/Neumorphism-Clock/
 
 <br/>
 

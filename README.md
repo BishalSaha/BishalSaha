@@ -44,6 +44,14 @@ Nexus-X- A platform for Creators!
 
 <br/>
 
+### Abandoned Project:
+[<img align="left" width="30px" src="https://raw.githubusercontent.com/BishalSaha/TensorflowStudio/b8d2ed864c4dccbc1b355a8d6bd0052a97500f0b/tensorflow.svg" />][website4]
+TensorFlow Studio- is a web app for training ML models with no code. 
+
+[website4]: https://github.com/BishalSaha/TensorflowStudio
+
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

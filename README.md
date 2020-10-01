@@ -34,6 +34,11 @@ Clock- Dark Neumorphism!
 
 [website2]: https://bishalsaha.github.io/Neumorphism-Clock/
 
+[<img align="left" width="20px" src="https://s3-alpha.figma.com/profile/662cdda9-535a-445a-aea7-37afa5ffe04d" />][frames]
+Frames - Making frames for your art!  --> Figma Design
+
+[frames]: https://www.figma.com/@frames
+
 <br/>
 
 ### Past Project:

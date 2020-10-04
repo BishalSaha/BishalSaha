@@ -21,8 +21,14 @@
 -->
 
 ### New Project:
+
+[<img align="left" width="22px" src="https://i.imgur.com/senFZan.jpg" />][bishalsaha]
+Bishal Saha - About me. Essays, Books, Tech Blogs ... Everything I work on!
+
+[bishalsaha]: https://bishalsaha.com/
+
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/emojione/assets/4.0/png/128/2b55.png" />][website]
-CircleAI- Personalised and Privacy focused Virtual AI for your everyday task!
+CircleAI - Personalised and Privacy focused Virtual AI for your everyday task!
 
 [website]: https://circleai.web.app/index
 
@@ -30,7 +36,7 @@ CircleAI- Personalised and Privacy focused Virtual AI for your everyday task!
 
 ### Design Project:
 [<img align="left" width="20px" src="https://github.com/BishalSaha/neumorphism-clock/blob/master/Clockcopy.png?raw=true" />][website2]
-Clock- Dark Neumorphism!
+Clock - Dark Neumorphism!
 
 [website2]: https://bishalsaha.github.io/Neumorphism-Clock/
 
@@ -43,7 +49,7 @@ Frames - Making frames for your art!  --> Figma Design
 
 ### Past Project:
 [<img align="left" width="22px" src="https://yt3.ggpht.com/a/AATXAJxPKPtiUSUAW1bIxski3Izfmyh4tZFxahKOwna3=s288-c-k-c0xffffffff-no-rj-mo" />][website3]
-Nexus-X- A platform for Creators!
+Nexus-X - A platform for Creators!
 
 [website3]: https://youtu.be/VAzX7s-1OFw
 
@@ -51,7 +57,7 @@ Nexus-X- A platform for Creators!
 
 ### Abandoned Project:
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/BishalSaha/TensorflowStudio/b8d2ed864c4dccbc1b355a8d6bd0052a97500f0b/tensorflow.svg" />][website4]
-TensorFlow Studio- is a web app for training ML models with no code. 
+TensorFlow Studio - is a web app for training ML models with no code. 
 
 [website4]: https://github.com/BishalSaha/TensorflowStudio
 

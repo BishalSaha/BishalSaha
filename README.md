@@ -37,6 +37,11 @@ Girls404 - Teaching boys how to flirt!
 
 [Girls404]: https://girls404.web.app/
 
+[<img align="left" width="22px" src="https://i.imgur.com/sWxiUwe.png" />][Startup]
+Startup Ideas World - Community of startup founders and tech Enthusiasts! Get Beta testers and Early Users!
+
+[startup]: https://startup-ideas-world.web.app/
+
 <br/>
 
 ### Design Project:
